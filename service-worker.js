@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/eth-todo-list-react/precache-manifest.ca73e295ccb3cb941a817c468c93177c.js"
+  "/dencentral-dapp-react/precache-manifest.07329196bd5846926782173ea6944255.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/eth-todo-list-react/index.html", {
+workbox.routing.registerNavigationRoute("/dencentral-dapp-react/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
