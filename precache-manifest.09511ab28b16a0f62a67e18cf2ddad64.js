@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/dencentral-dapp-react/static/media/photo.d6cbd8e6.png"
   },
   {
-    "revision": "03d74f05615b32116731024a0743ecd0",
+    "revision": "34f89480e6242c34e92f26f6d68fffdb",
     "url": "/dencentral-dapp-react/index.html"
   }
 ];
