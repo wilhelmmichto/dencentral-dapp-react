@@ -1,7 +1,7 @@
 {
-    "name": "name...",
-    "version": "0.1.0",
-    "description": "description...",
+    "name": "decentragram",
+    "version": "0.1.1",
+    "description": "Decentral Instagram using Solidity & React",
     "author": "Wilehm Michto",
     "dependencies": {
       "babel-polyfill": "6.26.0",
@@ -23,7 +23,7 @@
       "truffle": "5.0.5",
       "web3": "1.0.0-beta.55"
     },
-    "homepage": "",
+    "homepage": "https://wilhelmmichto.github.io/dencentral-dapp-react/",
     "scripts": {
       "start": "react-scripts start",
       "build": "react-scripts build",
