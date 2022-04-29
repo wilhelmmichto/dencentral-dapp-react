@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "cd58aa458d63fde38854",
+    "revision": "af5f6f5127eb5aaebea6",
     "url": "/dencentral-dapp-react/static/css/main.2ef7859a.chunk.css"
   },
   {
-    "revision": "cd58aa458d63fde38854",
-    "url": "/dencentral-dapp-react/static/js/main.cd58aa45.chunk.js"
+    "revision": "af5f6f5127eb5aaebea6",
+    "url": "/dencentral-dapp-react/static/js/main.af5f6f51.chunk.js"
   },
   {
     "revision": "94ce234ef71f5f3f79fe",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/dencentral-dapp-react/static/media/photo.d6cbd8e6.png"
   },
   {
-    "revision": "49572779aa5fb50cfdda9424f0df475b",
+    "revision": "5618c7d1244a24630e17e06ff09af884",
     "url": "/dencentral-dapp-react/index.html"
   }
 ];

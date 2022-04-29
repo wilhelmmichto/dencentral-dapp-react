@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dencentral-dapp-react/precache-manifest.7d17e1091e708bba20581917b0956600.js"
+  "/dencentral-dapp-react/precache-manifest.ceecf72975857a97067f39979b3a6b86.js"
 );
 
 workbox.clientsClaim();
