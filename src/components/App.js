@@ -56,7 +56,7 @@ class App extends Component {
       })
       this.setState({ loading: false})
     } else {
-      window.alert('Decentragram contract not deployed to detected network. Use Ropsten Nwtwork')
+      window.alert('Decentragram contract not deployed to detected network. Use Ropsten Network!')
     }
   }
 
